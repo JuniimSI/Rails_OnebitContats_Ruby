@@ -17,3 +17,6 @@ rake db:migrate
 
 rails c
 User.create(email: 'jrfernandesti@gmail.com', password: 'juno4848')
+
+rails g model Contact name:string email:string phone:string description:text user:references
+rails db:migrate
