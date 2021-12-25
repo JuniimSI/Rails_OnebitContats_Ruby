@@ -1,5 +1,10 @@
 # README
 
+## Tecs
+- Ruby
+- RubyOnRails
+
+
 Instalando o ruby 2.6.5
 
  ```bash
